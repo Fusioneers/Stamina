@@ -1,4 +1,4 @@
-tamina Documentation
+# Stamina Documentation
 
 ## Kurzfassung
 
