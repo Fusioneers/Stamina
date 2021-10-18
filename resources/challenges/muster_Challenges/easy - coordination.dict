@@ -1,0 +1,30 @@
+{
+    "name" : "easy - coordination",
+    "category" : "easy",
+    "description" : "",
+    "difficulty" : 1,
+    "tags" : [],
+    "parts" : {
+        "part0" : {
+            "name" : "Linke Hand",
+            "body_part" : "LeftHand",
+            "waypoints" : [[30, 40],[30, 65],[30, 90],[30, 65],[30, 40],[30, 65],[30, 90],[30, 65]],
+            "maxTime" : 60,
+            "wpTolerance" : 30,
+        },
+        "part1" : {
+            "name" : "Rechte Hand",
+            "body_part" : "RightHand",
+            "waypoints" : [[70, 40],[70, 65],[70, 90],[70, 65],[70, 40],[70, 65],[70, 90],[70, 65]],
+            "maxTime" : 60,
+            "wpTolerance" : 30,
+        },
+        "part2" : {
+            "name" : "Kopf",
+            "body_part" : "Head",
+            "waypoints" : [[50, 90],[50, 65],[50, 40],[50, 65],[50, 90],[50, 65],[50, 40],[50, 65]],
+            "maxTime" : 60,
+            "wpTolerance" : 30,
+        }
+    }
+}

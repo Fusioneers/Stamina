@@ -1,0 +1,7 @@
+{
+    "Head" : {"displayColor" : "cyan", "markerColor" : "mw_cyan"},
+    "LeftHand" : {"displayColor" : "gruen", "markerColor" : "mw_gruen"},
+    "RightHand" : {"displayColor" : "lila", "markerColor" : "mw_lila"},
+    "LeftFoot" : {"displayColor" : "orange", "markerColor" : "mw_orange"},
+    "RightFoot" : {"displayColor" : "rot", "markerColor" : "mw_rot"}
+}

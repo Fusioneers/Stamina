@@ -1,0 +1,37 @@
+{
+    "name" : "medium - intermediate",
+    "category" : "medium",
+    "description" : "",
+    "difficulty" : 1,
+    "tags" : [],
+    "parts" : {
+        "part0" : {
+            "name" : "Linke Hand",
+            "body_part" : "LeftHand",
+            "waypoints" : [[0, 0],[45, 0]],
+            "maxTime" : 64,
+            "wpTolerance" : 30
+        },
+        "part1" : {
+            "name" : "Rechte Hand",
+            "body_part" : "RightHand",
+            "waypoints" : [[100, 0],[55, 0]],
+            "maxTime" : 64,
+            "wpTolerance" : 30
+        },
+        "part2" : {
+            "name" : "Linkes Bein",
+            "body_part" : "LeftFoot",
+            "waypoints" : [[0, 100],[45, 100]],
+            "maxTime" : 64,
+            "wpTolerance" : 30
+        },
+        "part3" : {
+            "name" : "Rechtes Bein",
+            "body_part" : "RightFoot",
+            "waypoints" : [[100, 100],[55, 100]],
+            "maxTime" : 64,
+            "wpTolerance" : 30
+        },
+    }
+}

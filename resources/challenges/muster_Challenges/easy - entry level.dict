@@ -1,0 +1,23 @@
+{
+    "name" : "easy - entry level",
+    "category" : "easy",
+    "description" : "",
+    "difficulty" : 1,
+    "tags" : [],
+    "parts" : {
+        "part0" : {
+            "name" : "Linke Hand",
+            "body_part" : "LeftHand",
+            "waypoints" : [[35, 70],[30, 57],[25, 15],[30, 57],[35, 75],[30, 57],[25, 20]],
+            "maxTime" : 60,
+            "wpTolerance" : 30,
+        },
+        "part1" : {
+            "name" : "Rechte Hand",
+            "body_part" : "RightHand",
+            "waypoints" : [[75, 15],[65, 70],[75, 15],[65, 80]],
+            "maxTime" : 60,
+            "wpTolerance" : 30,
+ 	    },
+    }
+}

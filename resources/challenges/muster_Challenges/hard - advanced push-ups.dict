@@ -1,0 +1,17 @@
+{
+    "name" : "hard - advanced push-ups",
+    "category" : "hard",
+    "description" : "",
+    "difficulty" : 1,
+    "tags" : [],
+    "parts" : {
+        "part0" : {
+            "name" : "Kopf",
+            "body_part" : "Head",
+            "waypoints" : [[50, 100],[50, 65],[50, 30],[50, 0],[50, 30],[50, 65]],
+            "maxTime" : 60,
+            "wpTolerance" : 30,
+        }
+
+    }
+}

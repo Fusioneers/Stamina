@@ -1,0 +1,30 @@
+{
+    "name" : "medium - balance",
+    "category" : "medium",
+    "description" : "",
+    "difficulty" : 1,
+    "tags" : [],
+    "parts" : {
+	    "part0" : {
+            "name" : "Linke Hand",
+            "body_part" : "LeftHand",
+            "waypoints" : [[45, 100],[30, 35],[45, 100],[60, 35]],
+            "maxTime" : 60,
+            "wpTolerance" : 30,
+        },
+        "part1" : {
+            "name" : "Rechte Hand",
+            "body_part" : "RightHand",
+            "waypoints" : [[55, 100],[40, 35],[55, 100],[70, 35]],
+            "maxTime" : 60,
+            "wpTolerance" : 30,
+        },
+        "part0" : {
+            "name" : "Kopf",
+            "body_part" : "Head",
+            "waypoints" : [[50, 100],[35, 35],[50, 100],[65, 35]],
+            "maxTime" : 60,
+            "wpTolerance" : 30,
+        }
+    }
+}
