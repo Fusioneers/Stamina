@@ -989,5 +989,3 @@ while not Boss.Ragnarok:
     t.sleep(0.01)
 
 sys.exit()
-
-# debug
