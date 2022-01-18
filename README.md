@@ -1,4 +1,7 @@
 # Stamina
+
+[![Trailer](https://www.youtube.com/watch?v=bic1yzZmFMg)]
+
 In unserem Projekt geht es darum, eine App zu entwickeln, welche ihre Nutzer durch ein Spiel animiert, sich zu bewegen.
 
 Die App soll dem Nutzer eine Übung vorgeben und über eine Webcam erkennen, ob er sie korrekt ausführt.
