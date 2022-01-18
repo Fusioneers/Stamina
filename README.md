@@ -1,6 +1,6 @@
 # Stamina
 
-Trailer:
+## Trailer
 
 [![Trailer](https://img.youtube.com/vi/bic1yzZmFMg/0.jpg)](https://www.youtube.com/watch?v=bic1yzZmFMg)
 
