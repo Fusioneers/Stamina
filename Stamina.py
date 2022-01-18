@@ -10,7 +10,7 @@ from pathlib import Path
 import colorsys
 import sys
 
-savePath = str(Path.home()) + "\\AppData\\Local\\Stamina"
+savePath = str(Path.home()) + "/AppData/Local/Stamina"
 # print(savePath)
 
 # resize
@@ -103,8 +103,8 @@ class Data(th.Thread):
     for cat in cats:
         finalCat = {"name": cat}
         finalCatList = [cat]
-        for lvl in os.listdir(config.challengesPath + "\\" + cat):
-            lvlData = getDict(config.challengesPath + "\\" + cat + "\\" + lvl)
+        for lvl in os.listdir(config.challengesPath + "/" + cat):
+            lvlData = getDict(config.challengesPath + "/" + cat + "/" + lvl)
             finalCat.update({lvl: lvlData})
             finalCatList.append(lvl)
         allCats.update({cat: finalCat})
@@ -451,7 +451,6 @@ class ColorPicker(th.Thread):
                         openPicker()
                     ColorPicker.ColorChanged = False
                     ColorPicker.ColorSelected = True
-
             else:
                 t.sleep(0.01)
             t.sleep(config.coolDownTime)
