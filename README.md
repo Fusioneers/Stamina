@@ -1,5 +1,6 @@
 # Stamina
 
+Trailer:
 [![Trailer](https://img.youtube.com/vi/bic1yzZmFMg/0.jpg)](https://www.youtube.com/watch?v=bic1yzZmFMg)
 
 In unserem Projekt geht es darum, eine App zu entwickeln, welche ihre Nutzer durch ein Spiel animiert, sich zu bewegen.
