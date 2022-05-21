@@ -1,7 +1,7 @@
 {
-    "name" : "medium - legs",
-    "category" : "medium",
-    "description" : "",
+    "name" : "Sackheben",
+    "category" : "Arbeit",
+    "description" : "Hello World",
     "difficulty" : 1,
     "tags" : [],
     "parts" : {
@@ -10,14 +10,14 @@
             "body_part" : "LeftFoot",
             "waypoints" : [[20, 100],[15, 100],[10, 100],[5, 100],[0, 100],[5, 100],[10, 100],[15, 100]],
             "maxTime" : 65,
-            "wpTolerance" : 30
+            "wpTolerance" : 10
         },
         "part1" : {
             "name" : "Rechtes Bein",
             "body_part" : "RightFoot",
             "waypoints" : [[80, 100],[85, 100],[90, 100],[95, 100],[100, 100],[95, 100],[90, 100],[85, 100]],
             "maxTime" : 65,
-            "wpTolerance" : 30
+            "wpTolerance" : 10
         },
     }
 }

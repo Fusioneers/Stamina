@@ -1,7 +1,7 @@
 {
-    "name" : "hard - coordination",
-    "category" : "hard",
-    "description" : "",
+    "name" : "Flamingo Balz",
+    "category" : "Tierwelt",
+    "description" : "Hello World",
     "difficulty" : 1,
     "tags" : [],
     "parts" : {
@@ -10,28 +10,28 @@
             "body_part" : "LeftHand",
             "waypoints" : [[15, 30],[25, 15],[15, 30],[25, 45]],
             "maxTime" : 60,
-            "wpTolerance" : 30
+            "wpTolerance" : 10
         },
         "part1" : {
             "name" : "Rechte Hand",
             "body_part" : "RightHand",
             "waypoints" : [[85, 30],[75, 15],[85, 30],[75, 45]],
             "maxTime" : 60,
-            "wpTolerance" : 30
+            "wpTolerance" : 10
         },
         "part2" : {
             "name" : "Linkes Bein",
             "body_part" : "LeftFoot",
             "waypoints" : [[45, 75],[45, 100]],
             "maxTime" : 60,
-            "wpTolerance" : 30
+            "wpTolerance" : 15
         },
         "part3" : {
             "name" : "Rechtes Bein",
             "body_part" : "RightFoot",
             "waypoints" : [[55, 100],[55, 75]],
             "maxTime" : 60,
-            "wpTolerance" : 30
+            "wpTolerance" : 15
         }
     }
 }

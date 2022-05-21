@@ -1,7 +1,7 @@
 {
-    "name" : "medium - strength",
-    "category" : "medium",
-    "description" : "",
+    "name" : "Bizeps Flex",
+    "category" : "Flex",
+    "description" : "Hello World",
     "difficulty" : 1,
     "tags" : [],
     "parts" : {
@@ -10,14 +10,14 @@
             "body_part" : "LeftHand",
             "waypoints" : [[40, 50],[10, 80],[40, 50],[10, 80],[40, 50],[10, 80],[40, 50],[10, 10],[40, 50],[10, 10],[40, 50],[10, 10],[40, 50],[10, 10]],
             "maxTime" : 70,
-            "wpTolerance" : 30
+            "wpTolerance" : 15
         },
         "part1" : {
             "name" : "Rechte Hand",
             "body_part" : "RightHand",
             "waypoints" : [[60, 50],[90, 80],[60, 50],[90, 80],[60, 50],[90, 80],[60, 50],[90, 10],[60, 50],[90, 10],[60, 50],[90, 10],[60, 50],[90, 10]],
             "maxTime" : 70,
-            "wpTolerance" : 30
+            "wpTolerance" : 15
         },
     }
 }

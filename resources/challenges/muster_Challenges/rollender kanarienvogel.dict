@@ -1,7 +1,7 @@
 {
-    "name" : "easy - intermediate",
-    "category" : "easy",
-    "description" : "",
+    "name" : "Rollender Kanarienvogel",
+    "category" : "Tierwelt",
+    "description" : "Hello World",
     "difficulty" : 1,
     "tags" : [],
     "parts" : {
@@ -10,14 +10,14 @@
             "body_part" : "RightHand",
             "waypoints" : [[50, 70],[70, 50],[50, 70],[70, 50],[50, 70],[70, 50],[80, 20],[60, 5],[80, 20],[60, 5],[80, 20],[60, 5]],
             "maxTime" : 60,
-            "wpTolerance" : 30
+            "wpTolerance" : 15
         },
         "part1" : {
             "name" : "Linke Hand",
             "body_part" : "LeftHand",
             "waypoints" : [[50, 30],[30, 50],[50, 30],[30, 50],[50, 30],[30, 50],[20, 20],[40, 5],[20, 20],[40, 5],[20, 20],[40, 5]],
             "maxTime" :60,
-            "wpTolerance" : 30
+            "wpTolerance" : 15
         },
     }
 }

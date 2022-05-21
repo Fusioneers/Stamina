@@ -1,7 +1,7 @@
 {
-    "name" : "medium - balance",
-    "category" : "medium",
-    "description" : "",
+    "name" : "Pure Haedbang with Headphones to hold",
+    "category" : "Musik",
+    "description" : "Show the Might of Your Beards",
     "difficulty" : 1,
     "tags" : [],
     "parts" : {
@@ -10,21 +10,21 @@
             "body_part" : "LeftHand",
             "waypoints" : [[45, 100],[30, 35],[45, 100],[60, 35]],
             "maxTime" : 60,
-            "wpTolerance" : 30,
+            "wpTolerance" : 10,
         },
         "part1" : {
             "name" : "Rechte Hand",
             "body_part" : "RightHand",
             "waypoints" : [[55, 100],[40, 35],[55, 100],[70, 35]],
             "maxTime" : 60,
-            "wpTolerance" : 30,
+            "wpTolerance" : 10,
         },
         "part0" : {
             "name" : "Kopf",
             "body_part" : "Head",
             "waypoints" : [[50, 100],[35, 35],[50, 100],[65, 35]],
             "maxTime" : 60,
-            "wpTolerance" : 30,
+            "wpTolerance" : 15,
         }
     }
 }

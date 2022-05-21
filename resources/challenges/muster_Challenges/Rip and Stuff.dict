@@ -1,7 +1,7 @@
 {
-    "name" : "hard - dance",
-    "category" : "hard",
-    "description" : "",
+    "name" : "Rip and Stuff",
+    "category" : "Emotion",
+    "description" : "In and Out, opened and closed, Bled and Born",
     "difficulty" : 1,
     "tags" : [],
     "parts" : {
@@ -10,28 +10,28 @@
             "body_part" : "LeftHand",
             "waypoints" : [[15, 60],[25, 50],[15, 40],[25, 30],[15, 40],[25, 50]],
             "maxTime" : 60,
-            "wpTolerance" : 30,
+            "wpTolerance" : 15,
         },
         "part1" : {
             "name" : "Rechte Hand",
             "body_part" : "RightHand",
             "waypoints" : [[85, 60],[75, 50],[85, 40],[75, 30],[85, 40],[75, 50]],
             "maxTime" : 60,
-            "wpTolerance" : 30,
+            "wpTolerance" : 15,
         },
         "part2" : {
             "name" : "Linkes Bein",
             "body_part" : "LeftFoot",
             "waypoints" : [[45, 85],[45, 100],[35, 85],[35, 100]],
             "maxTime" : 60,
-            "wpTolerance" : 30,
+            "wpTolerance" : 20,
         },
         "part3" : {
             "name" : "Rechtes Bein",
             "body_part" : "RightFoot",
             "waypoints" : [[55, 100],[55, 85],[65, 100],[65, 75]],
             "maxTime" : 60,
-            "wpTolerance" : 30,
+            "wpTolerance" : 20,
         }
     }
 }
